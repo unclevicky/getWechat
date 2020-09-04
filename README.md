@@ -16,6 +16,8 @@
 <br/>
 2.使用mitmproxy代替fiddler，完成自动抓包
 <br/>
+3.汉字使用频率保存到excel中
+<br/>
 
 ### 三、参考教程
 https://blog.csdn.net/MissYourKiss/article/details/100254510
